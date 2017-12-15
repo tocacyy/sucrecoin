@@ -1,0 +1,1 @@
+# Sucrecoin-scrypt
